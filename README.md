@@ -35,10 +35,7 @@ Interface-python/
 ├── interface.py
 ├── cadastro.py
 ├── README.md
-│
-└── images/
-    ├── customtkinter-login.png
-    └── pysimplegui-login.png
+
 ```
 
 ---
